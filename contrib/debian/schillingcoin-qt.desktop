@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=schilling coin
+Comment=schillingcoin P2P Cryptocurrency
+Exec=schillingcoin-qt %u
+Terminal=false
+Type=Application
+Icon=schillingcoin128
+MimeType=x-scheme-handler/schillingcoin;
+Categories=Office;Finance;
+StartupWMClass=schillingcoin-qt
+Name[en_US]=schillingcoin-qt.desktop

@@ -1,0 +1,6 @@
+usr/local/bin/schillingcoin-qt usr/bin
+share/pixmaps/schillingcoin32.xpm usr/share/pixmaps
+share/pixmaps/schillingcoin16.xpm usr/share/pixmaps
+share/pixmaps/schillingcoin128.png usr/share/pixmaps
+debian/schillingcoin-qt.desktop usr/share/applications
+debian/schillingcoin-qt.protocol usr/share/kde4/services/
